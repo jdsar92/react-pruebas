@@ -1,0 +1,20 @@
+.container {
+	margin-left: 0px !important;
+}
+
+.panelInfoHotel{
+	border-right: 1px dotted #cccccc;
+	padding-bottom: 6px;
+	padding-left: 12px;	
+	padding-top: 6px;
+	display: inline-flex;
+	width: 75%;
+	
+}
+
+.panelPrecioHotel{
+	width: 25%;
+	float: right;
+	text-align: center;
+	padding: 2rem 1rem;
+}
